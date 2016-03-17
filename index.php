@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>CodeYork</title>
+	<title>KATAWAPPS</title>
 	<link rel="stylesheet" href="public/css/bootstrap.css">
 	
 </head>
@@ -26,7 +26,7 @@
 					<span class="icon-bar"></span>
 				</button>
 
-				<a class="navbar-brand" href="#">CodeYork</a>
+				<a class="navbar-brand" href="#">katawapps</a>
 			</div>
 			
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -92,7 +92,7 @@
 			</div>
 		</div>
 		<div class="item">
-			<img data-src="public/imagen/psicodelico-portada-facebook.jpg" alt="" src="public/imagen/psicodelico-portada-facebook.jpg" width="1225">
+			<img data-src="public/imagen/psicodelico-portada-facebook.jpg" alt="" src="public/imagen/psicodelico-portada-facebook.jpg" width="1425">
 			<div class="container">
 				<div class="carousel-caption">
 					
