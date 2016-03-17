@@ -31,7 +31,7 @@
 			
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav">
-					<li class="nav navbar-nav navbar-right"><a target="_bank" href="">Registrate</a></li>
+					<li class="nav navbar-nav navbar-right"><a target="_bank" href="">Registrate 2016</a></li>
 				</ul>
 				<form class="navbar-form navbar-left" role="search">
 					<div class="form-group">
